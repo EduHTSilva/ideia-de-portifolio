@@ -14,8 +14,8 @@ Meu primeiro projeto de portfolio, desenvolvido com os cursos da Alura.
 
 ## Feito por:
 
-### Joana Santos
+### Eduardo Silva
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
+### Instagram: https://wwww.instagram.com/eduardohenri20
 
 ```
